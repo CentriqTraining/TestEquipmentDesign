@@ -1,0 +1,9 @@
+c:\users\student\documents\visual studio 2015\Projects\Testing\Utilities\obj\Debug\Utilities.vbprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Testing\Utilities\obj\Debug\Utilities.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\Testing\Utilities\obj\Debug\Utilities.vbproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\Testing\Utilities\bin\Debug\Utilities.dll
+c:\users\student\documents\visual studio 2015\Projects\Testing\Utilities\bin\Debug\Utilities.pdb
+c:\users\student\documents\visual studio 2015\Projects\Testing\Utilities\bin\Debug\Utilities.xml
+c:\users\student\documents\visual studio 2015\Projects\Testing\Utilities\obj\Debug\Utilities.dll
+c:\users\student\documents\visual studio 2015\Projects\Testing\Utilities\obj\Debug\Utilities.xml
+c:\users\student\documents\visual studio 2015\Projects\Testing\Utilities\obj\Debug\Utilities.pdb
